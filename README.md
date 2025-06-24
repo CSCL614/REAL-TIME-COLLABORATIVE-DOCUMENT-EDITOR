@@ -63,6 +63,16 @@ A real-time collaborative document editor is a powerful productivity tool that a
         ├─ package.json
         ├─ server.js
 
+# Used SQL Schema Script:
+
+    CREATE DATABASE collaborative_editor;
+    USE collaborative_editor;
+
+    CREATE TABLE documents (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    content TEXT NOT NULL
+    );
+
 # Technologies and Tools Used:
 
 
