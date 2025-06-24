@@ -145,3 +145,6 @@ This project is a hands-on introduction to building a full-stack, real-time web 
 
 
 # OUT PUT:
+
+If any one of the user changes the content all the user can observe that the content in the browser has been changed.Any user can make change the content on the editor.The content on editor will change simultaneously for all userr's.
+![Image](https://github.com/user-attachments/assets/761f40ee-31ad-44e1-b2bc-2260bcfd8460)
